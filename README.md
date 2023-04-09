@@ -1,0 +1,2 @@
+# devopsAuxProj
+Shell scripting
