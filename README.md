@@ -1,5 +1,6 @@
-# devopsAuxProj
-Shell scripting
+### DEMO
+
+# Shell scripting
 
 #! /usr/bin/bash
 echo "Hello Anselm"
